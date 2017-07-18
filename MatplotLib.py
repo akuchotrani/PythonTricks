@@ -5,8 +5,7 @@ Created on Mon Jul 17 17:03:03 2017
 @author: aakash.chotrani
 """
 
-import matplotlib
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 
 
